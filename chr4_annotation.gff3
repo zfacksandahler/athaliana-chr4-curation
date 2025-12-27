@@ -1,0 +1,8 @@
+##gff-version 3
+# Arabidopsis thaliana chromosome 4 annotation (dummy)
+Chr4	TAIR10	gene	1000	2000	.	+	.	ID=AT4G39510;Name=AT4G39510
+Chr4	TAIR10	mRNA	1000	2000	.	+	.	ID=AT4G39510.1;Parent=AT4G39510
+Chr4	TAIR10	exon	1000	1500	.	+	.	ID=exon1;Parent=AT4G39510.1
+Chr4	TAIR10	exon	1600	2000	.	+	.	ID=exon2;Parent=AT4G39510.1
+Chr4	TAIR10	CDS	1100	1500	.	+	0	ID=cds1;Parent=AT4G39510.1
+Chr4	TAIR10	CDS	1600	1900	.	+	0	ID=cds2;Parent=AT4G39510.1
